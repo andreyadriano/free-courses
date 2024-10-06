@@ -6,5 +6,6 @@ This is a list of free courses I find interesting and want to save for later. I 
 I know there are huge and active repos on github with tons of free resources, which I will also list below when I find them:
 
 | Name  | Description |
-| :---: |    :---     |
+| :--- |    :---     |
 | [EbookFoundation](https://github.com/EbookFoundation/free-programming-books) | List of Free Learning Resources in Many Languages |
+| [The Linux Foundation](https://training.linuxfoundation.org/resources/?_sft_content_type=free-course,tutorial,webinar) | List of Free Courses, Webinars and Tutorials Available |
